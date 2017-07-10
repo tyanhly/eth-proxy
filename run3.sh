@@ -1,0 +1,1 @@
+ethminer -t 6 --farm-recheck 200 -C -F http://127.0.0.1:8080/rig3  > /dev/null 2>&1 &

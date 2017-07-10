@@ -1,1 +1,0 @@
-ethminer -t 5 --farm-recheck 200 -C -F http://127.0.0.1:8080/rig1
